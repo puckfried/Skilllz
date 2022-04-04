@@ -1,4 +1,3 @@
-![Skilllz Image](./images/cover-1.png)
 ***
 ## A Sleek Purple Landing Page
 Baut die folgende Seite nach, verwendet scss. Wen ihr anfangt denkt an "mobile first"
